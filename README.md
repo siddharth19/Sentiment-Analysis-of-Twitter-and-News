@@ -20,3 +20,17 @@
 7. The sentiments corresponding to the tweets of the named entities are stored in the .csv file.
 
 8. Data Folder contains the mongodb files
+
+## Named Entites from the data are:
+
+1. Trump
+2. Miami
+3. Russia
+4. Twitter
+5. God
+
+1st graph for entity "Trump":
+
+
+
+
