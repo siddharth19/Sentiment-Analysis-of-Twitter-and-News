@@ -29,11 +29,15 @@
 4. Twitter
 5. God
 
-1st graph for entity "Trump":
+Graph for entity "Trump" from tweets:
 
 ![picture1](/Graph1.png)
 
-2nd graph for entity "Trump":
+Graph for entity "Trump" from news:
+
+![picture1](/Graph3.png)
+
+Graph for entity "Trump" from tweets:
 
 ![picture2](/Graph2.png)
 
