@@ -1,5 +1,5 @@
 
-SENTIMENT ANALYSIS OF TWEETS AND NEWS
+# SENTIMENT ANALYSIS OF TWEETS AND NEWS
 
 1. twitter_stream.py is used to get the tweets using the Twitter API (through python library tweepy) and store it in mongodb instance
 
