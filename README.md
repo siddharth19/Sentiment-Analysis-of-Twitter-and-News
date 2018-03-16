@@ -31,6 +31,9 @@
 
 1st graph for entity "Trump":
 
+!
 
+2nd graph for entity "Trump":
 
+!
 
