@@ -4,10 +4,10 @@ from pprint import pprint
 from pymongo import MongoClient
 import json
 
-ACCESS_TOKEN = '974315414128701440-onTOCkogKd22zl2siXWRocHsKhSJK1a'
-ACCESS_SECRET = 'jsRMpBy3GPxFQybOeLwZTrc5N9YJnuTbovt9Av4BMgkNS'
-CONSUMER_KEY = 'RL1WWEqgmHS3lMiACn5mAqy91'
-CONSUMER_SECRET = 'ClXdVdJ9Lti9ksRB3nJbQxKDEchBL5qWw2TPyj6L4MsWnblcPb'
+ACCESS_TOKEN = '------------------------'
+ACCESS_SECRET = '-----------------------'
+CONSUMER_KEY = '------------------------'
+CONSUMER_SECRET = '-------------------------'
 
 class TweetListener(StreamListener):
     
