@@ -31,9 +31,9 @@
 
 1st graph for entity "Trump":
 
-!
+![picture1](/Graph1.png)
 
 2nd graph for entity "Trump":
 
-!
+![picture2](/Graph2.png)
 
